@@ -1,4 +1,4 @@
-# 🧬 Covid-19 Genomic Analysis Suite (Standalone Executable)
+# 🧬 Covid-19 Genomic Analysis Suite
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Type](https://img.shields.io/badge/Type-Executable-green)
